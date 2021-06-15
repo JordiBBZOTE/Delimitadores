@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1616371811 source:c:\users\jordi\desktop\delimitadores\main.cpp
+	<iostream>
+	<sstream>
+	<cstdlib>
+	"ClassA.h"
+	<fstream>
+
+1615948148 c:\users\jordi\desktop\delimitadores\include\classa.h
+	<sstream>
+
+1616371738 source:c:\users\jordi\desktop\delimitadores\src\classa.cpp
+	"ClassA.h"
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<sstream>
+
+1616801354 source:c:\users\jordi\desktop\materias\estructuras de datos 2\delimitadores\src\classa.cpp
+	<iostream>
+	<sstream>
+	"ClassA.h"
+	<fstream>
+
+1616790004 c:\users\jordi\desktop\materias\estructuras de datos 2\delimitadores\include\classa.h
+	<cstdlib>
+
+1616830631 source:c:\users\jordi\desktop\materias\estructuras de datos 2\delimitadores\main.cpp
+	<iostream>
+	<sstream>
+	<cstdlib>
+	"ClassA.h"
+	<fstream>
+
